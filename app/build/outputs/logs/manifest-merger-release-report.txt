@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\289f90d0db476d4700aa64002a5e5736\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\dceed7261c03f44074cfc0a6c3b1d192\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\88c92957d5d6a59486c4c5d394f145f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\552f7bb7520536551c7de8afcb2cdf28\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\084c7f074f1d16f6170230bc25040e68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\9df5b936c51082e9171211f48953e4d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\04db5f90470d1f70e8fba148ab2209c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\21abf9880baf1ca77483c0bec6b5f81e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\f559ac6a21ea8162b84146b78f34d822\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\2e5c47f8771ed80bec944694722e099f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\dd8c2934b7c2f9c387c7e41559cddeca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\1150c117bdac5622df1ad49ac30982b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\c46507eb9920420c0fb6b9c1877b1c72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\c5bed2179c3e7b5ee5b09abf6f4c1bf0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\f51446bdf8fea56d9e55cefffbf843e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\699de0f6cb245372eff148c8aceb0634\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\82c20e5b1194f0fbcfa2670ccaee58f8\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\4db6f99d5ecb47d7335802635bf5582d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\395f7d336bac537c41517b17da0858cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\44af5dc3296cc46590152e179b1f76d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\3679021a300f9c04233bbb202d6538d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\38fa5cbc36c6ef838d40237cd46c80f1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e5fbbe3b679137f29f8ecafdbd9af3cc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bf61e970a7825a55c31f2597414c3b72\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0fbf3c5cdbe68025d4b2bd013ea3ad1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\383d580c65cee37cb51b6806efdae968\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\dceed7261c03f44074cfc0a6c3b1d192\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\dceed7261c03f44074cfc0a6c3b1d192\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\699de0f6cb245372eff148c8aceb0634\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\699de0f6cb245372eff148c8aceb0634\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\82c20e5b1194f0fbcfa2670ccaee58f8\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\82c20e5b1194f0fbcfa2670ccaee58f8\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\699de0f6cb245372eff148c8aceb0634\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.yuki.lab1.MainActivity
+ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\289f90d0db476d4700aa64002a5e5736\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\289f90d0db476d4700aa64002a5e5736\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\dceed7261c03f44074cfc0a6c3b1d192\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\dceed7261c03f44074cfc0a6c3b1d192\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\88c92957d5d6a59486c4c5d394f145f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\88c92957d5d6a59486c4c5d394f145f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\552f7bb7520536551c7de8afcb2cdf28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\552f7bb7520536551c7de8afcb2cdf28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\084c7f074f1d16f6170230bc25040e68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\084c7f074f1d16f6170230bc25040e68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\9df5b936c51082e9171211f48953e4d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\9df5b936c51082e9171211f48953e4d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\04db5f90470d1f70e8fba148ab2209c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\04db5f90470d1f70e8fba148ab2209c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\21abf9880baf1ca77483c0bec6b5f81e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\21abf9880baf1ca77483c0bec6b5f81e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\f559ac6a21ea8162b84146b78f34d822\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\f559ac6a21ea8162b84146b78f34d822\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\2e5c47f8771ed80bec944694722e099f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\2e5c47f8771ed80bec944694722e099f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\dd8c2934b7c2f9c387c7e41559cddeca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\dd8c2934b7c2f9c387c7e41559cddeca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\1150c117bdac5622df1ad49ac30982b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\1150c117bdac5622df1ad49ac30982b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\c46507eb9920420c0fb6b9c1877b1c72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\c46507eb9920420c0fb6b9c1877b1c72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\c5bed2179c3e7b5ee5b09abf6f4c1bf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\c5bed2179c3e7b5ee5b09abf6f4c1bf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\f51446bdf8fea56d9e55cefffbf843e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\f51446bdf8fea56d9e55cefffbf843e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\699de0f6cb245372eff148c8aceb0634\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\699de0f6cb245372eff148c8aceb0634\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\82c20e5b1194f0fbcfa2670ccaee58f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\82c20e5b1194f0fbcfa2670ccaee58f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\4db6f99d5ecb47d7335802635bf5582d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\4db6f99d5ecb47d7335802635bf5582d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\395f7d336bac537c41517b17da0858cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\395f7d336bac537c41517b17da0858cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\44af5dc3296cc46590152e179b1f76d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\44af5dc3296cc46590152e179b1f76d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\3679021a300f9c04233bbb202d6538d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\3679021a300f9c04233bbb202d6538d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\38fa5cbc36c6ef838d40237cd46c80f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\38fa5cbc36c6ef838d40237cd46c80f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e5fbbe3b679137f29f8ecafdbd9af3cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e5fbbe3b679137f29f8ecafdbd9af3cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bf61e970a7825a55c31f2597414c3b72\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bf61e970a7825a55c31f2597414c3b72\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0fbf3c5cdbe68025d4b2bd013ea3ad1d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0fbf3c5cdbe68025d4b2bd013ea3ad1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\383d580c65cee37cb51b6806efdae968\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Yuki\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\383d580c65cee37cb51b6806efdae968\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yuki\OneDrive\IICS\2018-2019\ICS 115\app\src\main\AndroidManifest.xml
